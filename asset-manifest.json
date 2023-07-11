@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a657a157.css",
-    "main.js": "/Portfolio/static/js/main.2fa52f93.js",
-    "static/media/proj.jpg": "/Portfolio/static/media/proj.60cb43a829cae76a1fc1.jpg",
-    "static/media/joji-icon.png": "/Portfolio/static/media/joji-icon.e8e302994d4904792cc0.png",
-    "static/media/contact.jpg": "/Portfolio/static/media/contact.4727a9c05132f2b7cf98.jpg",
-    "static/media/target-icon.png": "/Portfolio/static/media/target-icon.6396a00d572791e32e80.png",
-    "index.html": "/Portfolio/index.html",
-    "main.a657a157.css.map": "/Portfolio/static/css/main.a657a157.css.map",
-    "main.2fa52f93.js.map": "/Portfolio/static/js/main.2fa52f93.js.map"
+    "main.css": "/Portfolio/index.html/static/css/main.cfa80f7b.css",
+    "main.js": "/Portfolio/index.html/static/js/main.5d6fa82c.js",
+    "static/media/proj.jpg": "/Portfolio/index.html/static/media/proj.60cb43a829cae76a1fc1.jpg",
+    "static/media/joji-icon.png": "/Portfolio/index.html/static/media/joji-icon.e8e302994d4904792cc0.png",
+    "static/media/contact.jpg": "/Portfolio/index.html/static/media/contact.4727a9c05132f2b7cf98.jpg",
+    "static/media/target-icon.png": "/Portfolio/index.html/static/media/target-icon.6396a00d572791e32e80.png",
+    "index.html": "/Portfolio/index.html/index.html",
+    "main.cfa80f7b.css.map": "/Portfolio/index.html/static/css/main.cfa80f7b.css.map",
+    "main.5d6fa82c.js.map": "/Portfolio/index.html/static/js/main.5d6fa82c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a657a157.css",
-    "static/js/main.2fa52f93.js"
+    "static/css/main.cfa80f7b.css",
+    "static/js/main.5d6fa82c.js"
   ]
 }
